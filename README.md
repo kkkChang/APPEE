@@ -3,9 +3,7 @@
 %----------------Copyright-----------------------------------------------------
 
 Title: Adaptive pairwise prediction-error expansion and multiple histograms modification for reversible data hiding
-
 Accepted by IEEE Trans. Circuits Syst. Video Technol. 2021.
-
 Authors: Qi Chang, Xiaolong Li, Yao Zhao, and Rongrong Ni.
 
 The correct way to cite the algorithm is to cite the paper 
